@@ -1,7 +1,7 @@
 package com.scmgalaxy.mavensample;
 
 /**
- * Hello world1!
+ * Hello world Test!
  *
  */
 public class App 
